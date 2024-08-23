@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002020650032",
+    "project_id": "aref-app-testing-files",
+    "storage_bucket": "aref-app-testing-files.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002020650032:android:1d0f0082647ac30ff181f5",
+        "android_client_info": {
+          "package_name": "com.example.arefapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwwpQUn71DBlAs9TCy2haWY05NNhlB5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
