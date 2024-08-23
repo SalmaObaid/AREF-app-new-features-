@@ -1,16 +1,13 @@
-# arefapp
+# 📱 What's Arefapp?
 
-A new Flutter project.
+Aref is an innovative and interactive mobile app designed to provide comprehensive computer science education to learners of all levels. With a focus on multiple programming languages, including Java, C++, Python, and more, Aref offers a rich learning experience through recorded lectures, exams, challenges, and articles. Whether you're a beginner taking your first steps in programming or an experienced developer looking to expand your skills, Aref has something to offer for everyone.
 
-## Getting Started
+# 🧩 Built with:
+- Flutter
+  Used to build an application's user interface (UI)
+- Dart
+  programming language used by Flutter
+- Firebase
+  for Database and storing users' data
+- Visual Studio Code(VS Code)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
